@@ -1,0 +1,8 @@
+2022-Sep-16 17:24:07,027 [main] com.resonance.travel_Test.Travel 
+  INFO  clicked on from city dropdown
+2022-Sep-16 17:24:11,242 [main] com.resonance.travel_Test.Travel 
+  INFO  selected Banglore as a From city
+2022-Sep-16 17:24:34,381 [main] com.resonance.travel_Test.Travel 
+  INFO  selected Delhi as a To city
+2022-Sep-16 17:24:45,052 [main] com.resonanace.keyword 
+  INFO  chrome is launched Succesfully

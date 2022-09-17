@@ -1,0 +1,14 @@
+2022-Sep-16 21:54:18,805 [main] com.resonance.travel_Test.Travel 
+  INFO  clicked on from city dropdown
+2022-Sep-16 21:54:22,197 [main] com.resonance.travel_Test.Travel 
+  INFO  selected Banglore as a From city
+2022-Sep-16 21:54:22,406 [main] com.resonance.travel_Test.Travel 
+  INFO  selected Delhi as a To city
+2022-Sep-16 21:54:35,042 [main] com.resonanace.keyword 
+  INFO  chrome is launched Succesfully
+2022-Sep-16 21:54:53,565 [main] com.resonance.travel_Test.Travel 
+  INFO  shoes method
+2022-Sep-16 21:54:53,728 [main] com.resonance.travel_Test.Travel 
+  ERROR close home screen popup
+2022-Sep-16 21:54:58,967 [main] com.resonance.travel_Test.Travel 
+  ERROR Enter text female shoes successfully

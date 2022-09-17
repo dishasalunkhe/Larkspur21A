@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-16T17:33:22 IST" name="Default suite" finished-at="2022-09-16T17:35:14 IST" duration-ms="111277">
+    <groups>
+    </groups>
+    <test started-at="2022-09-16T17:33:22 IST" name="Default test" finished-at="2022-09-16T17:35:14 IST" duration-ms="111277">
+      <class name="com.resonance.travel_Test.Travel">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.resonance.travel_Test.Travel@4c163e3]" started-at="2022-09-16T17:33:23 IST" name="setup" finished-at="2022-09-16T17:33:51 IST" duration-ms="28715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyErrorOnSelectingSameCitiesAsSourceAndDestination()[pri:0, instance:com.resonance.travel_Test.Travel@4c163e3]" started-at="2022-09-16T17:33:51 IST" name="verifyErrorOnSelectingSameCitiesAsSourceAndDestination" finished-at="2022-09-16T17:34:08 IST" duration-ms="16251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyErrorOnSelectingSameCitiesAsSourceAndDestination -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.resonance.travel_Test.Travel@4c163e3]" started-at="2022-09-16T17:34:08 IST" name="tearDown" finished-at="2022-09-16T17:34:09 IST" duration-ms="1080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.resonance.travel_Test.Travel@4c163e3]" started-at="2022-09-16T17:34:09 IST" name="setup" finished-at="2022-09-16T17:34:57 IST" duration-ms="48155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifysearchResultForShoes()[pri:0, instance:com.resonance.travel_Test.Travel@4c163e3]" started-at="2022-09-16T17:34:57 IST" name="verifysearchResultForShoes" finished-at="2022-09-16T17:35:12 IST" duration-ms="15737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysearchResultForShoes -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.resonance.travel_Test.Travel@4c163e3]" started-at="2022-09-16T17:35:12 IST" name="tearDown" finished-at="2022-09-16T17:35:14 IST" duration-ms="1237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.resonance.travel_Test.Travel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
